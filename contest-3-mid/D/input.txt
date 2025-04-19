@@ -1,0 +1,6 @@
+5
+hello world
+string
+line
+word
+welcome to python
